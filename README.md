@@ -1,17 +1,15 @@
 
-# Assignment Task
-
-Pushing all week3 to week5 assignments to a new repo, on github. 
-
+# HELLO!! You are welcome!
+##This is Akinbolawa Samuel, also known as Sammy Berry||A Frontend developer||Aspiring backend developer.
  
-## Acknowledgements
+## Acknowledgement
 Goes to my zuri frontend mentors:
 - Isiaka Abdulahi.
 - Victoria Enebeli.
 - Tobi Otenaike(Sylvacodez).
 
 ## 🚀 About Me
-I'm a begginer Frontend developer undergoing training, through the ZurixI4G training program.
+I'm a begginer Frontend developer undergoing training, through the ZurixI4G training program. I love football and good people.
 
 
 ## 🛠 Skills
@@ -20,9 +18,6 @@ Javascript, HTML, CSS...
 ## Authors
 
 - [@Sammyberry](https://www.github.com/Sammyberry)
-
-## 🚀 About Me
-I'm a begginer Frontend developer undergoing training, through the ZurixI4G training program.
 
 ## 🔗 Links
 ![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
