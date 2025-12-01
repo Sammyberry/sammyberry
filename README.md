@@ -1,91 +1,113 @@
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <b>Samuel Akinbolawa</b></h1>
+<h3 align="center">Frontend Developer | React | Tailwind CSS | ALX Software Engineering Graduate</h3>
 
-
-
-# 👨‍💻 Samuel Akinbolawa
-
-**Aspiring Front-End Developer | Lifelong Learner | Passionate Educator**
-
----
-
-### 🌟 About Me
-
-Hi there! I'm **Samuel Akinbolawa**, a passionate and detail-driven individual transitioning into the world of tech—specializing in **Front-End Web Development**. I started out as a teacher and Arts Education student, but my curiosity, problem-solving nature, and love for learning led me into the exciting world of coding.
-
-I believe in **impact through innovation**, and I'm on a journey to not just build websites, but to **create experiences** that make a difference—both in tech and in the community.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## ✨ About Me
 
-#### 💻 Languages & Tools
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### 🧠 Core Skills
-- Effective communication  
-- Critical thinking  
-- Self-awareness  
-- Collaboration  
-- Problem-solving  
-- Computer literacy  
-- Educational planning  
-- Mentorship & peer support
+I'm a passionate Frontend Developer focused on building clean, responsive, and user-friendly web experiences.  
+My journey started in education, but curiosity and problem-solving led me into tech — and since then, I've been committed to lifelong learning and delivering real value through code.
 
 ---
 
-### 🎓 Education
+## 🚀 Tech Stack & Tools
 
-- 🎓 **B.A. in Arts Education** *(in progress)*  
-  Adekunle Ajasin University, Akungba Akoko, Nigeria  
-  *(Admitted in 2015 — pending clearance/graduation)*
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-- 🏫 **Secondary School**  
-  Model Secondary School, Akure (2009–2014)
-
----
-
-### 🔧 Experience & Volunteering
-
-- **Secondary School Teacher** – *(2015)*  
-  Taught English and Arts to secondary school students before starting university. Developed a foundational passion for education, student mentorship, and curriculum delivery.
-
-- **Community Youth Tutor** – *(2016 – 2018)*  
-  Volunteered as an academic coach for teens, focusing on English and Arts. Mentored students, built confidence, and led informal learning sessions that enhanced planning and leadership skills.
-
-- **Tech Peer Support Volunteer (Virtual)** – *(2023 – Present)*  
-  Support beginner developers in online communities by sharing resources, answering coding questions, and encouraging consistent learning. Strengthens communication and collaboration in digital learning spaces.
-
----
-
-### 🚀 Goals & Vision
-
-> _"I aspire to become a **great developer** and make a **significant impact in the tech world**."_
-
-I'm committed to lifelong learning and using technology to solve real-world problems. I use AI tools, online communities, and consistent practice to accelerate my growth. I'm also passionate about giving back—through education, support, and mentoring.
+### **Other Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-Basic-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 💡 Interests & Hobbies
-
-- ⚽ Watching football  
-- 🎬 Watching movies  
-- 📚 Learning new things  
-- 🌍 Exploring languages — fluent in **English** and **Yoruba**, learning **French**
+## 📌 What I'm Working On
+- Building real-world React projects  
+- Improving UI/UX skills  
+- Learning TypeScript & Next.js   
 
 ---
 
-### 📍 Location & Contact
+## 🎓 Education & Training
 
-- 📍 Lagos, Nigeria  
-- 📞 08100934685  
-- 📧 samuel4weezy@yahoo.com  
+### 🎓 ALX Africa — Professional Foundations (Jun 2025)
+Completed the **ALX Professional Development Skills Program**, focused on communication, leadership, emotional intelligence, problem-solving, professional mindset, and workplace readiness.  
+**Certificate issued:** 3rd June 2025.
+
+### 🎓 ALX Africa — Software Engineering (Frontend Web Development)  
+*(Jul 2025 – Nov 2025)*  
+Completed a **4-month intensive software engineering program** specializing in **Frontend Web Development**.  
+Gained hands-on experience with modern frontend technologies (HTML, CSS, JavaScript, React, Tailwind CSS), Git/GitHub, version control, debugging, and building real-world projects.  
+**Certificate issued:** 7th November 2025.
+
+### 🎓 B.A Arts Education 
+Adekunle Ajasin University, Nigeria  
+Focused on communication, teaching methodologies, educational psychology, and curriculum development.
 
 ---
 
-_“Learning is not a phase; it’s a lifestyle.”_
+## 🧩 Soft Skills
+- Effective Communication  
+- Critical Thinking  
+- Attention to Detail  
+- Collaboration & Teamwork  
+- Problem-Solving  
+- Mentorship & Peer Support  
+
+---
+
+## 🌱 My Goals
+I aspire to become a world-class developer and create impactful digital experiences.  
+Actively seeking **internship, junior dev roles, open-source contributions**, and growth opportunities.
+
+---
+
+## 💼 Past Experience
+- **Secondary School Teacher (2015)** – English & Arts  
+- **Community Youth Tutor (2016–2018)**  
+- **Tech Peer Support Volunteer (2023–Present)**  
+  Helping beginners learn frontend basics, debugging, and sharing resources.
+
+---
+
+## ❤️ Personal Interests
+- Football  
+- Movies  
+- Learning new things  
+- Exploring languages (English, Yoruba, learning French)
+
+---
+
+## 📬 Contact Me  
+📍 Lagos, Nigeria  
+📞 08100934685  
+📧 **samuel4weezy@yahoo.com**
+
+<p>
+  <a href="https://github.com/sammyberry"><img src="https://img.shields.io/badge/GitHub-sammyberry-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center"><i>“Learning is not a phase; it’s a lifestyle.”</i></p>
