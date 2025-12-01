@@ -50,20 +50,38 @@ My journey started in education, but curiosity and problem-solving led me into t
 
 ## 🎓 Education & Training
 
-### 🎓 ALX Africa — Professional Foundations (Jun 2025)
-Completed the **ALX Professional Development Skills Program**, focused on communication, leadership, emotional intelligence, problem-solving, professional mindset, and workplace readiness.  
-**Certificate issued:** 3rd June 2025.
+🎓 ALX Africa — Professional Foundations (Jun 2025)
 
-### 🎓 ALX Africa — Software Engineering (Frontend Web Development)  
-*(Jul 2025 – Nov 2025)*  
-Completed a **4-month intensive software engineering program** specializing in **Frontend Web Development**.  
-Gained hands-on experience with modern frontend technologies (HTML, CSS, JavaScript, React, Tailwind CSS), Git/GitHub, version control, debugging, and building real-world projects.  
-**Certificate issued:** 7th November 2025.
+Completed the ALX Professional Development Skills Program focused on:
+- Communication
+- Leadership
+- Emotional Intelligence
+- Problem-Solving
+- Professional Mindset
+- Workplace Readiness
+  
+📄 Certificate issued: 3rd June 2025
 
-### 🎓 B.A Arts Education 
-Adekunle Ajasin University, Nigeria  
-Focused on communication, teaching methodologies, educational psychology, and curriculum development.
+### 🎓 ALX Africa — Software Engineering (Frontend Web Development) Jul 2025 – Nov 2025
 
+Completed a 4-month intensive program specializing in Frontend Engineering:
+- HTML, CSS, JavaScript
+- React + Tailwind CSS
+- Debugging & Version Control
+- Building real-world projects
+  
+📄 Certificate issued: 7th November 2025
+
+### 2025
+
+🎓 B.A Arts Education
+
+Adekunle Ajasin University, Nigeria
+Focused on:
+- Communication
+- Teaching Methodologies
+- Educational Psychology
+- Curriculum Development
 ---
 
 ## 🧩 Soft Skills
